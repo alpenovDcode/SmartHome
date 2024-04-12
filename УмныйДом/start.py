@@ -56,6 +56,7 @@ from temperature.settings import TemperatureSettings
 from security.surveillance import Camera
 from security.alarm import AlarmSystem
 
+#
 
 def display_room(lights, thermostat, camera, alarm):
     room = f"""
